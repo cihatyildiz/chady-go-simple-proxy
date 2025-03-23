@@ -1,0 +1,6 @@
+github.com/smarty/assertions v1.16.0 h1:EvHNkdRA4QHMrn75NZSoUQ/mAUXAYWfatfB01yTCzfY=
+github.com/smarty/assertions v1.16.0/go.mod h1:duaaFdCS0K9dnoM50iyek/eYINOZ64gbh1Xlf6LG7AI=
+github.com/smarty/cproxy/v2 v2.1.1 h1:CReH/eZaK/YEQbWHYaoYFTtXFwjZCggqWrNLC5d46vE=
+github.com/smarty/cproxy/v2 v2.1.1/go.mod h1:YzpKMSNNMlkkPUCeAnCLKJtjOwlYqQET7ZF3DFHEQ3g=
+github.com/smarty/gunit v1.5.0 h1:OmG6a/rgi7qCjlQis6VjXbvx/WqZ8I6xSlbfN4YB5MY=
+github.com/smarty/gunit v1.5.0/go.mod h1:uAeNibUD292KZRcg5OTy7lb6WR5++UC0BQOzNuiRzpU=
